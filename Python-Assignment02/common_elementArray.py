@@ -5,4 +5,4 @@ def common_elements(arr1, arr2):
 arr1 = list(map(int, input("Enter first array: ").split()))
 arr2 = list(map(int, input("Enter second array: ").split()))
 
-print("Common Elements:", common_elements(arr1, arr2))
+print("Common Elements:", common_elements(arr1, arr2))                          
