@@ -1,0 +1,9 @@
+The golden token is worth 50 points.
+
+Players cannot cross the river without a bridge card.
+
+Dragon card skips one opponent turn.
+
+Shield cards block attacks.
+
+Winner reaches 200 points.
