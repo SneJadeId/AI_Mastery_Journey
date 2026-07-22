@@ -1,0 +1,14 @@
+Azure Cosmos DB is Microsoft's globally distributed NoSQL database.
+
+Cosmos DB supports SQL API, MongoDB API, Cassandra API, Gremlin API, and Table API.
+
+Our company's Task Management System uses the SQL API.
+
+Cosmos DB automatically replicates data across Azure regions.
+
+Cosmos DB provides five consistency levels:
+Strong,
+Bounded Staleness,
+Session,
+Consistent Prefix,
+Eventual.
