@@ -1,0 +1,19 @@
+Project Name: Online Food Ordering System
+
+The system allows customers to register and login.
+
+Customers can browse restaurants.
+
+Customers can place food orders.
+
+Customers can make online payments.
+
+Restaurant owners can update menus.
+
+Admins can manage users.
+
+The system should support 1000 concurrent users.
+
+Sensitive information must be encrypted.
+
+Response time should be less than 2 seconds.
